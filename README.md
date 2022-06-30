@@ -1,2 +1,2 @@
-# store
-store microservice
+# movies-store
+Movies Store
